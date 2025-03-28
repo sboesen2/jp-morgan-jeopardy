@@ -1,5 +1,7 @@
 ## Jeopardy for wage slaves
 
+![Dystopian Rat Race](./20250328_1330_Rats in Dystopia_simple_compose_01jqf75ez1fdtahej1q5y6cazp.png)
+
 # J.P. Morgan Jeopardy
 
 Welcome to the **J.P. Morgan Jeopardy** repository! This project helps you (and your friends) practice essential finance knowledge, J.P. Morgan trivia, interview tips, and more—**all in a classic Jeopardy-style game**.
