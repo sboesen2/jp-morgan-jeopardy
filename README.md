@@ -1,3 +1,5 @@
+## Jeopardy for wage slaves
+
 # J.P. Morgan Jeopardy
 
 Welcome to the **J.P. Morgan Jeopardy** repository! This project helps you (and your friends) practice essential finance knowledge, J.P. Morgan trivia, interview tips, and more—**all in a classic Jeopardy-style game**.
