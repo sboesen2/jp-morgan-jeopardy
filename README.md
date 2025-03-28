@@ -1,6 +1,6 @@
 ## Jeopardy for wage slaves
 
-![Dystopian Rat Race](./20250328_1330_Rats in Dystopia_simple_compose_01jqf75ez1fdtahej1q5y6cazp.png)
+![Dystopian Rat Race](/20250328_1330_Rats%20in%20Dystopia_simple_compose_01jqf75ez1fdtahej1q5y6cazp.png)
 
 # J.P. Morgan Jeopardy
 
