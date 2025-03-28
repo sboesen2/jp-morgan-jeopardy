@@ -1,52 +1,57 @@
-# jp-morgan-jeopardy
-JP Morgan jeopardy for wage slaves
+# J.P. Morgan Jeopardy
 
-# J.P. Morgan Jeopardy Game
+Welcome to the **J.P. Morgan Jeopardy** repository! This project helps you (and your friends) practice essential finance knowledge, J.P. Morgan trivia, interview tips, and more—**all in a classic Jeopardy-style game**.
 
-Welcome to the **J.P. Morgan Jeopardy** project! This repository helps you (or a friend) practice essential finance, technical, and cultural knowledge about J.P. Morgan in a fun, Jeopardy-style format.
+## What’s in This Repo
 
-## How This Repository Works
+1. **`README.md` (this file):**  
+   - Overview of the game  
+   - Quick instructions on how to use the repository
 
-1. **README.md (this file):** Provides a quick overview, instructions, and the purpose of the project.
-2. **game.md (coming soon):** Will contain the **fully clickable Jeopardy board** and all the Q&A pairs (clues and correct responses).
+2. **[`game.md`](./game.md):**  
+   - Contains the **full Jeopardy board** with 6 categories and point values (200, 400, 600, 800, 1000).  
+   - Each clue (“Answer”) is visible immediately.  
+   - Each correct response (“Question”) is hidden inside a **collapsible section**, so you won’t see the answer until you click **“Show the Correct Response”**.
 
-## Objectives
+## How to Play
 
-- **Test Knowledge**: Brush up on finance fundamentals, J.P. Morgan trivia, interview tips, and more.
-- **Interactive Format**: Use the clickable Jeopardy board to jump between questions and categories.
-- **Self-Study or Group Fun**: You can play solo or with friends. Just keep track of points on paper, or discuss answers together.
+1. **Open the `game.md` file** in this repository.  
+2. You’ll see a table with **6 categories** (Banking Basics, J.P. Morgan & Culture, Financial Market Concepts, Interview Tips, Tech & Innovations, and Random Trivia) across the top, and point values (200–1000) down the left column.  
+3. **Click a link** (e.g., “BB-200” for Banking Basics 200). GitHub will scroll to that clue.  
+4. **Read the “Answer”**: In Jeopardy format, that’s the clue you must respond to.  
+5. **Make Your Guess**: Formulate your response as “What is…?” or “Who is…?”  
+6. **Check** the hidden “Question”: Click **“Show the Correct Response”** under the clue’s `<details>` section.  
+7. **Go Back to the Board**: Click the `[Back to Board](#j-p-morgan-jeopardy-board)` link to pick another clue.  
+8. **Keep Score**: Use a notepad, spreadsheet, or mental tally.
 
-## Planned Features
+## Final Jeopardy
 
-- **Clickable Links**: Our `game.md` file will feature a table with categories and point values, each linking to the correct question-answer pair.
-- **Easy Navigation**: Each clue includes a “back to board” link or anchor, so you can quickly return and pick another category.
-- **Expansion**: You can fork this repository and add your own categories, or edit existing ones, to tailor the game to your needs.
+- At the bottom of `game.md`, you’ll find **Final Jeopardy** clues. Players can wager some (or all) of their points. Then reveal the correct response once everyone’s locked in an answer.
 
-## How to Play (Overview)
+## Why This Game?
 
-1. **Open the Game**: Once the `game.md` file is uploaded, click on it here in GitHub to view the rendered Markdown.
-2. **Pick a Category & Point Value**: For example, “Banking Basics for 400.”
-3. **Click the Link**: GitHub will jump you straight to that clue.
-4. **Read the Clue**: The “Answer” appears, and the player must respond in the form of a question (“What is…” / “Who is…”).
-5. **Check the Correct Response**: The same section (or a hidden text) will show you the official “Question” (correct answer).
-6. **Return to the Board**: Click the provided link to go back to the table of categories and choose another one.
-7. **Track Points**: Use a notepad or whiteboard to track each player’s score.
+- **Interview Prep**: Learn more about J.P. Morgan’s history, values, and culture—helpful for internships, interviews, or simply expanding your industry knowledge.  
+- **Finance Fundamentals**: Categories like Banking Basics and Financial Market Concepts will help you sharpen your skills.  
+- **Fun & Interactive**: The Jeopardy format turns boring memorization into a quiz game—ideal for study groups or personal review.  
+- **Spoiler-Free Answers**: By using collapsible sections, players won’t accidentally see the correct response too soon.
 
-## Next Steps
+## Customizing
 
-- We will create a new file, `game.md`, that has:
-  - A **6x6 board** (6 categories, each with 5 point values, plus Final Jeopardy).
-  - All the “answers” (clues) and “questions” (correct responses).
-  - Proper anchor links so the table links to the correct sections.
-
-Stay tuned!
+- **Add/Edit Categories**: Fork the repo or open a pull request with new questions and answers.  
+- **Change Point Values**: If you want fewer (or more) levels, tweak the board accordingly.  
+- **Upgrade the Format**: If you prefer a PowerPoint or a hosted site, you can adapt these questions. The content here is yours to remix!
 
 ## Contributing
 
-If you want to **add more categories or questions**, feel free to fork this repo or make a pull request. You can:
-- Add new .md files for bonus categories.
-- Refine existing clues to ensure accuracy.
+If you have suggestions or want to add more questions:
+1. Fork this repository.  
+2. Create a new branch for your changes.  
+3. Submit a Pull Request describing your updates.
 
 ## License
 
-This project is provided for **educational purposes**. You can adapt or share it as you see fit.  
+This project is provided for **educational and personal** use. Feel free to share or modify it to fit your own needs.
+
+---
+
+Enjoy playing **J.P. Morgan Jeopardy**! If you have any questions, open an issue in this repo or reach out to the creator.
